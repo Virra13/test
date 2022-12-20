@@ -22,5 +22,5 @@ class MyCog(commands.Cog):
             
 #Запуск бота
 
-token = ('TOKEN')
+token = ('MTA1NDgzOTY5MDAwOTc4NDQ0MQ.GxLZmZ.YtMLeRExE6p3BLVGE2JVarMLlibJDAfquzro54')
 client.run(token)
